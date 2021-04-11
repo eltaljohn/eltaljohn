@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @eltaljohn
+- 👀 I’m interested in technologies like React, React Native, Node and Go.
